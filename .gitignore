@@ -25,3 +25,6 @@ ehthumbs.db
 Icon?
 Thumbs.db
 *.swp
+
+# weight file
+darknet53.conv.74
