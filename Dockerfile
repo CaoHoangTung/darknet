@@ -7,5 +7,3 @@ RUN apt-get -y  install make
 RUN apt-get -y install gcc
 RUN apt-get -y install g++
 RUN wget https://pjreddie.com/media/files/darknet53.conv.74
-RUN make
-RUN chmod +x ./darknet
